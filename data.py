@@ -1,5 +1,6 @@
 quotes = [
     "The only way to do great work is to love what you do. - Steve Jobs",
+    "We can only see a short distance ahead, but we can see plenty there that needs to be done. - Alan Turing",
     "Believe you can and you're halfway there. - Theodore Roosevelt",
     "Your time is limited, don't waste it living someone else's life. - Steve Jobs",
     "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
