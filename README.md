@@ -25,3 +25,6 @@ A lightweight, database-free FastAPI application that serves a daily inspiration
 
 3.  **Access the API**:
     Open `http://127.0.0.1:8000` in your browser.
+
+    ## Documentation
+- [Collaboration Guide](COLLABORATION.md)
