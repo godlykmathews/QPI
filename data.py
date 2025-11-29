@@ -101,6 +101,11 @@ quotes = [
     "Pain is inevitable. Suffering is optional. - Haruki Murakami",
     "Be yourself; everyone else is already taken. - Oscar Wilde",
     "You only live once, but if you do it right, once is enough. - Mae West",
+    "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost"
+    "Victory belongs to the most persevering. - Napoleon Bonaparte",
+    "The purpose of our lives is to be happy. - Dalai Lama",
+    "Life is what happens when you're busy making other plans. - John Lennon",
+    "The only impossible journey is the one you never begin. - Tony Robbins",
     "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost",
     "Your time is limited, so don't waste it living someone else's life. - Steve Jobs",
     "If you look at what you have in life, you'll always have more. - Oprah Winfrey",
